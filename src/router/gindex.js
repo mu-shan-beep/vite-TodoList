@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "../utils/Router/index";
 import Home from "../pages/home.vue";
 import About from "../pages/about.vue";
 import Rate from "../pages/Rate.vue";
